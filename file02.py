@@ -1,7 +1,7 @@
 print('test_newrepo')
 print('r121')
 print('r12345')
-
+print('r12345')
 print('выберите ')
 print('выберите пункт доставки кнопка4563')
 
